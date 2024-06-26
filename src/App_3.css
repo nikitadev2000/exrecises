@@ -1,0 +1,42 @@
+/* Your CSS goes here */
+
+h1 {
+	text-align: center;
+  }
+  
+  progress {
+	width: 100%;
+  }
+  
+  form {
+	display: grid;
+	gap: 16px;
+  }
+  
+  button {
+	width: 100%;
+  }
+  
+  table {
+	font-size: 14px;
+	font-family: monospace;
+	position: relative;
+	width: 100%;
+	border: 1px solid;
+  }
+  
+  thead th:not(:first-child) {
+	text-align: left;
+  }
+  
+  th,
+  td {
+	padding: 4px 8px;
+  }
+  
+  
+  td {
+	border: 1px solid ;
+	width: 100%;
+  }
+  
